@@ -1,0 +1,7 @@
+{
+  "extends": "./tsconfig.json",
+  "include": ["**/*.{spec,test}.{ts,tsx,js,jsx}", "**/__tests__/*"],
+  "compilerOptions": {
+    "module": "CommonJS"
+  }
+}

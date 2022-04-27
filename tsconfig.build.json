@@ -1,0 +1,8 @@
+{
+  "extends": "./tsconfig.json",
+  "exclude": ["**/*.{spec,test}.{ts,tsx,js,jsx}", "**/__tests__/**", "src/index.umd.ts"],
+  "compilerOptions": {
+    "declaration": false,
+    "outDir": "dist/types"
+  }
+}
