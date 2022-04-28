@@ -1,6 +1,6 @@
 {
   "name": "animated-lyrics",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Draw animated lyrics into video, to support pictureInPicture",
   "keywords": [
     "lyrics",
