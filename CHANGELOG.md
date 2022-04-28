@@ -1,3 +1,10 @@
+# 1.0.0 (2022-04-28)
+
+
+### Features
+
+* configure npm publish in .releaserc ([cf070b9](https://github.com/cyndra0/animated-lyrics/commit/cf070b9564a0c37930c90692b9b9ca98811ed618))
+
 # [1.1.0](https://github.com/cyndra0/typescript-lib-starter/compare/v1.0.0...v1.1.0) (2022-04-27)
 
 ### Features
