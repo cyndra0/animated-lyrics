@@ -3,6 +3,10 @@
 以“画中画”（Picture-In-Picture）的形式展示歌词动画。
 Show lyrics animation In picture-in-picture view.
 
+## Demo
+
+[Demo](https://cyndra0.github.io/animated-lyrics/)
+
 ## 使用方式 Usage
 
 ```html
